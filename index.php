@@ -6,14 +6,15 @@
 /**************************************************/
 // UADate version 0.48/Alpha	
 // ------------------------------------------------
-// Copyright (C) 2008-2013 DaK studio
+// 2008-2016 DaK studio
 // 	EMail: DaKstudio@ukr.net 
 //	http://Dakstudio.ltd.ua
 //   Released under the terms and conditions of the
 //   GNU General Public License (http://gnu.org).
+//  $Source: https://github.com/MilaYoga/Calendar.UA $
 //  $Source: http://calendarUA.sourceforge.net/ $
 //  $Revision: 0.4 $
-//  $Date: 20-01-2013  23:28:59 $
+//  $Date: 20-01-2016  23:28:59 $
 //    $Author: LnceloT $
 /**************************************************/ 
 @include('uadate.php');
