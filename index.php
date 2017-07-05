@@ -6,7 +6,7 @@
 /**************************************************/
 // UADate version 0.48/Alpha	
 // ------------------------------------------------
-// 2008-2016 DaK studio
+// 2008-2017 DaK studio
 // 	EMail: DaKstudio@ukr.net 
 //	http://Dakstudio.ltd.ua
 //   Released under the terms and conditions of the
@@ -14,7 +14,7 @@
 //  $Source: https://github.com/MilaYoga/Calendar.UA $
 //  $Source: http://calendarUA.sourceforge.net/ $
 //  $Revision: 0.4 $
-//  $Date: 20-01-2016  23:28:59 $
+//  $Date: 05-07-2017  22:27:59 $
 //    $Author: LnceloT $
 /**************************************************/ 
 @include('uadate.php');
